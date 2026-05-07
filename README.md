@@ -334,43 +334,6 @@ Database Engineering
    [+] Third-party payment API integration
    [+] Fraud detection & security middleware
 ```
-
-[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io)
-[![Security](https://img.shields.io/badge/Secure-%2300ff88?style=flat-square&logo=shield&logoColor=black)](https://owasp.org)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<!-- PROJECT 4 -->
-<details>
-<summary><b>🎓 &nbsp; Alumni Management System · Certificate & Event Platform</b></summary>
-<br/>
-
-<table>
-<tr>
-<td>
-
-```
- PROJECT :: ALUMNI-MANAGEMENT-PLATFORM
- ─────────────────────────────────────────────
- TYPE     │ Institutional Management System
- STACK    │ Spring Boot · SQL · REST APIs
- STATUS   │ ✅ LIVE
- ─────────────────────────────────────────────
- FEATURES:
-   [+] Automated certificate generation engine
-   [+] Event participation management portal
-   [+] Alumni award & recognition system
-   [+] Member profile & directory management
-   [+] Event RSVP and scheduling workflows
-```
-
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io)
 [![SQL](https://img.shields.io/badge/SQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![REST API](https://img.shields.io/badge/REST%20API-%2300d4ff?style=flat-square)](https://restfulapi.net)
